@@ -17,7 +17,7 @@
     - [ ] Right
     - [ ] Fast
 
-## Big thanks
+##  thanks
 
 - [DICE_LAB](https://github.com/DICE-LAB-SYX) for DocPy.
 - [Insomnyawolf](https://github.com/insomnyawolf/) for DocCS.
